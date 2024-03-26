@@ -1,33 +1,33 @@
 {
-  "AL": {
-    "name": "Alabama",
-    "capital": "Montgomery",
-    "lat": "32.361538",
-    "long": "-86.279118"
+  "BG": {
+    "name": "Bac Giang",
+    "capital": "Bac Giang",
+    "lat": "21.333333",
+    "long": "106.333333"
   },
-  "AK": {
-    "name": "Alaska",
-    "capital": "Juneau",
-    "lat": "58.301935",
-    "long": "-134.419740"
+  "BK": {
+    "name": "Bac Kan",
+    "capital": "Bac Kan",
+    "lat": "22.166667",
+    "long": "105.833333"
   },
-  "AZ": {
-    "name": "Arizona",
-    "capital": "Phoenix",
-    "lat": "33.448457",
-    "long": "-112.073844"
+  "CB": {
+    "name": "Cao Bang",
+    "capital": " Cao Bang",
+    "lat": "22.666667",
+    "long": "106"
   },
-  "AR": {
-    "name": "Arkansas",
-    "capital": "Little Rock",
-    "lat": "34.736009",
-    "long": "-92.331122"
+  "HG": {
+    "name": "Ha Giang",
+    "capital": "Ha Giang",
+    "lat": "22.75",
+    "long": "105"
   },
-  "CA": {
-    "name": "California",
-    "capital": "Sacramento",
-    "lat": "38.555605",
-    "long": "-121.468926"
+  "LS": {
+    "name": "Lang Son",
+    "capital": "Lang Son",
+    "lat": "21.75",
+    "long": "106.5"
   },
   "CO": {
     "name": "Colorado",
